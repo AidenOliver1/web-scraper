@@ -1,0 +1,17 @@
+D:\LocalGitRepository\Perenti.PIP.ServiceDesk\solutions\Web_Scraper\Web_Scraper\bin\Debug\net6.0\Web_Scraper.exe
+D:\LocalGitRepository\Perenti.PIP.ServiceDesk\solutions\Web_Scraper\Web_Scraper\bin\Debug\net6.0\Web_Scraper.deps.json
+D:\LocalGitRepository\Perenti.PIP.ServiceDesk\solutions\Web_Scraper\Web_Scraper\bin\Debug\net6.0\Web_Scraper.runtimeconfig.json
+D:\LocalGitRepository\Perenti.PIP.ServiceDesk\solutions\Web_Scraper\Web_Scraper\bin\Debug\net6.0\Web_Scraper.dll
+D:\LocalGitRepository\Perenti.PIP.ServiceDesk\solutions\Web_Scraper\Web_Scraper\bin\Debug\net6.0\Web_Scraper.pdb
+D:\LocalGitRepository\Perenti.PIP.ServiceDesk\solutions\Web_Scraper\Web_Scraper\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\LocalGitRepository\Perenti.PIP.ServiceDesk\solutions\Web_Scraper\Web_Scraper\obj\Debug\net6.0\Web_Scraper.csproj.AssemblyReference.cache
+D:\LocalGitRepository\Perenti.PIP.ServiceDesk\solutions\Web_Scraper\Web_Scraper\obj\Debug\net6.0\Web_Scraper.GeneratedMSBuildEditorConfig.editorconfig
+D:\LocalGitRepository\Perenti.PIP.ServiceDesk\solutions\Web_Scraper\Web_Scraper\obj\Debug\net6.0\Web_Scraper.AssemblyInfoInputs.cache
+D:\LocalGitRepository\Perenti.PIP.ServiceDesk\solutions\Web_Scraper\Web_Scraper\obj\Debug\net6.0\Web_Scraper.AssemblyInfo.cs
+D:\LocalGitRepository\Perenti.PIP.ServiceDesk\solutions\Web_Scraper\Web_Scraper\obj\Debug\net6.0\Web_Scraper.csproj.CoreCompileInputs.cache
+D:\LocalGitRepository\Perenti.PIP.ServiceDesk\solutions\Web_Scraper\Web_Scraper\obj\Debug\net6.0\Web_Scraper.csproj.CopyComplete
+D:\LocalGitRepository\Perenti.PIP.ServiceDesk\solutions\Web_Scraper\Web_Scraper\obj\Debug\net6.0\Web_Scraper.dll
+D:\LocalGitRepository\Perenti.PIP.ServiceDesk\solutions\Web_Scraper\Web_Scraper\obj\Debug\net6.0\refint\Web_Scraper.dll
+D:\LocalGitRepository\Perenti.PIP.ServiceDesk\solutions\Web_Scraper\Web_Scraper\obj\Debug\net6.0\Web_Scraper.pdb
+D:\LocalGitRepository\Perenti.PIP.ServiceDesk\solutions\Web_Scraper\Web_Scraper\obj\Debug\net6.0\Web_Scraper.genruntimeconfig.cache
+D:\LocalGitRepository\Perenti.PIP.ServiceDesk\solutions\Web_Scraper\Web_Scraper\obj\Debug\net6.0\ref\Web_Scraper.dll

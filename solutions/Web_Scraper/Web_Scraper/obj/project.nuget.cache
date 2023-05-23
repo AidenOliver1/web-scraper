@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YZnUhNeujAvyyoRR4W94OWeTW7t4x7/yXWYk4gWW+z+mtZ/Bk8w6DF5BHXJOpFcm5c+c2+2K0D8Gyr9oy86+Mw==",
+  "success": true,
+  "projectFilePath": "D:\\LocalGitRepository\\Perenti.PIP.ServiceDesk\\solutions\\Web_Scraper\\Web_Scraper\\Web_Scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aiden.oliver\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
